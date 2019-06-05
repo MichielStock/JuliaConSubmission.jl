@@ -1,21 +1,23 @@
-title: "My JuliaCon proceeding"
+title: "A general-purpose toolbox for efficient Kronecker-based learning"
 keywords:
-  - Julia
-  - Optimization
-  - Game theory
-  - Compiler
+  - Pairwise learning
+  - Kronecker product
+  - Linear algebra
 authors:
-  - name: 1st author
-    orcid: 0000-0003-1361-440X
+  - name: Michiel Stock
+    orcid: 0000-0003-0903-6061
     affiliation: 1
-  - name: 2nd author
-    affiliation: 1, 2
-  - name: 3rd author
+  - name: Tapio Pahikkala
     affiliation: 2
+  - name: Antti Airola
+    affiliation: 2
+  - name: Bernard De Baets
+    orcid: 0000-0002-3876-620X
+    affiliation: 1
 affiliations:
-  - name: University
+  - name: KERMIT, Department of Data Analysis and Mathematical Modelling, Ghent University, Belgium
     index: 1
-  - name: National Lab
+  - name:  Department of Future Technologies
     index: 2
-date: 24 April 2019
-bibliography: ref.bib
+date: 30 May 2019
+bibliography: refMS.bib
